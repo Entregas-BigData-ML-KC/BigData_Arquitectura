@@ -49,4 +49,4 @@ De esta manera, el usuario hace una petición al servidor web y éste puede cons
 
 ### IMAGEN DE LA ARQUITECTURA
 
-![Arquitecura](url.jpeg)
+![Arquitecura](https://github.com/Entregas-BigData-ML-KC/BigData_Arquitectura/blob/main/IMG/IMG_predict_vinilos.JPEG)
